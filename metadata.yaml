@@ -1,0 +1,57 @@
+_repo: S--de-Miranda--13-Com-uma-carta--cerca-da--Bibliographia-Camilliana--de-Henrique-Marques_25845
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Araújo, Joaquim de
+    alias: Araujo, Joaquim de
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '26768'
+    url: http://www.gutenberg.org/2009/agents/26768
+  - agent_name: Quental, Antero de
+    aliases:
+    - Tarquino do Quental, Anthero
+    - Quental, Anthero de
+    - Tarquinio de Quental, Anthero
+    - De Quental, Antero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+  - agent_name: Castelo Branco, Camilo
+    aliases:
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Branco, Camilo Castelo
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25845'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marques, Henrique, 1859- Bibliographia camilliana'
+- !lcc 'PQ'
+- !lcsh 'Sá de Miranda, Francisco de, 1481?-1558'
+title: "Sá de Miranda\r\nCom uma carta ácerca da \"Bibliographia Camilliana\" de Henrique\
+  \ Marques"
+url: http://www.gutenberg.org/ebooks/25845
